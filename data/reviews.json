@@ -1,0 +1,35 @@
+[
+  {
+    "id": "rev-1",
+    "name": "Ananya & Rahul Sharma",
+    "location": "Bengaluru, India",
+    "destinationVisited": "Coorg & Mysore Special",
+    "rating": 5,
+    "comment": "Let’s Trawell organized an unforgettable 2-day trip to Coorg for our family! The private AC coach was extremely comfortable, driver was super punctual, and hotel stays in Madikeri were top class.",
+    "date": "2 days ago",
+    "likes": 14,
+    "createdAt": "2026-07-31T10:13:28.888Z"
+  },
+  {
+    "id": "rev-2",
+    "name": "Karthik V.",
+    "location": "Mysore, India",
+    "destinationVisited": "Industrial Visit (Coca-Cola & Infosys)",
+    "rating": 5,
+    "comment": "We booked an industrial study visit for 60 engineering students. Seamless coordination, staff permissions, and guide support provided by Let’s Trawell. Highly recommended for colleges!",
+    "date": "5 days ago",
+    "likes": 22,
+    "createdAt": "2026-07-28T10:13:28.888Z"
+  },
+  {
+    "id": "rev-3",
+    "name": "Deepika Prasad",
+    "location": "Hyderabad, India",
+    "destinationVisited": "Dubai International Tour",
+    "rating": 5,
+    "comment": "Our Dubai holiday was pure luxury! Burj Khalifa 124th floor tickets, desert safari dune bashing, and visa processing were handled 100% hassle-free. Thank you team!",
+    "date": "1 week ago",
+    "likes": 31,
+    "createdAt": "2026-07-26T10:13:28.888Z"
+  }
+]
